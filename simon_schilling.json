@@ -1,0 +1,34 @@
+{
+  "name": "Simon Schilling",
+  "title": "Software Testing",
+  "email": "kontakt@wiedergruen.com",
+  "phone": "0176 6 200 20 25",
+  "website": "https://wiedergruen.com",
+  "city": [
+    "Frankfurt"
+  ],
+  "keywords": [
+    "elektromobilität",
+    "ladeinfrastruktur",
+    "projektmanagement",
+    "schnittstellenentwicklung",
+    "software architektur"
+  ],
+  "profiles": {
+    "gravatar": "schilling@wiedergruen.com",
+    "xing": "http://xing.to/Simon_Schilling5",
+    "twitter": "http://twitter.com/simschi",
+    "google+": "",
+    "facebook": "",
+    "linkedin": "https://www.linkedin.com/in/simonschilling/",
+    "github": "https://github.com/wiedergruen",
+    "stackoverflow": "",
+    "aboutme": "",
+    "tumblr": "",
+    "500px": "",
+    "behance": "",
+    "flickr": "",
+    "slideshare": "",
+    "pinboard": ""
+  }
+}
